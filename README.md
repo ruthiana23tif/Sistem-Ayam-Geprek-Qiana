@@ -1,1 +1,0 @@
-# Sistem-Ayam-Geprek-Qiana
