@@ -63,8 +63,11 @@ Sistem Informasi Parenting memiliki 2 pengunjung yaitu admin dan pengunjung. Adm
 **Halaman Admin**
 |  |  |
 |--|--|
-| ![alt text](image/login.png?raw=true) Halaman login admin diminta untuk mengisi username dan password.| ![alt text](image/dashboard?raw=true) Setelah login admin akan masuk ke tampilan Dashboard admin.
+| ![alt text](image/login.png?raw=true) Halaman login admin diminta untuk mengisi username dan password.| ![alt text](image/dashboard.png?raw=true) Setelah login admin akan masuk ke tampilan Dashboard admin.
 |  |  |
+| ![alt text](image/testimoni.png?raw=true) Pada halaman testimoni, selain menambahkan dan mengedit, admin juga dapat menghapus data testimoni yang mana ketika button hapus di klik akan muncul pop up untuk memastikan admin benar-benar ingin menghapus atau tidak.| ![alt text](image/aboutus.png?raw=true) Pada halaman about us, admin juga dapat mengedit data about us, begitu juga dengan pengelolaan data di kolom tersedia.
+|  |  |
+
 
 ## 2.2 Spesifikasi kebutuhan fungsional
 ![alt text](image/2.2_UseCase.drawio.png?raw=true)
