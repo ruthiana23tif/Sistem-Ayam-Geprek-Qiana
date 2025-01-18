@@ -475,7 +475,7 @@ Struktur data logika pada sistem ayam geprek qiana terdapat pada struktur Databa
 
 
 
-## Pembagian tugas
+## Pembagian tugas Dokumen
 BAB 1 ->Ruthiana
 
 BAB 2 
@@ -507,3 +507,7 @@ BAB 3
   3.2.3 Musarofah (setelah 3.2.3 itu risky)
 3.3 Risky
 
+## Pembagian Tugas Sistem
+1. Ruthiana -> Login dan Register, Homepage, Testimoni
+2. Musarofah -> About Us, Promo
+3. M. Rizky -> Menu, Contact Us
