@@ -221,7 +221,7 @@ Xref: Bagian 3.2.8, Data Testimoni
 Use Case: Mengunjungi website
 
 Diagram:
-![alt text](Image/pengunjungMengunjungiWeb.png?raw=true)
+![alt text](image/2.2.9.png?raw=true)
 
 Deskripsi Singkat: 
 Customer mengunjungi website dan langsung masuk ke halaman Dashboard sebagai tampilan utama, kemudian melanjutkan ke berbagai fitur seperti Menu untuk mencari atau melihat daftar menu yang tersedia, About Us untuk mengetahui informasi tentang ayam geprek qiana, dan Contact Us untuk melihat kontak serta peta lokasi, Promo untuk melihat informasi promosi, dan Testimoni untuk melihat/membaca review dari pelanggan/customer ayam geprek qiana.
