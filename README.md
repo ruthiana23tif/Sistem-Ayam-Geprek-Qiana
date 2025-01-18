@@ -417,9 +417,9 @@ Salah satu cara mengakses website ini yaitu customer membuka website nya terlebi
 | Exception Push     |    Jika ada kesalahan server atau gangguan teknis, sistem akan menampilkan pesan kesalahan kepada pengguna. Pengguna dapat mencoba kembali atau menghubungi dukungan teknis.    |
 
 ## 3.3 Struktur Detail Kebutuhan Non-Fungsional
-![alt text](Image/3.3.png?raw=true)
+![alt text](image/ERD.png?raw=true)
 **3.3.1 Logika Struktur Data**
-Struktur data logika pada sistem informasi parenting terdapat struktur Database yang dijelaskan menggunakan ERD.
+Struktur data logika pada sistem ayam geprek qiana terdapat pada struktur Database yang dijelaskan menggunakan ERD.
 
 **Tabel Admin**
 |Data Item|Tipe Data|Deskripsi|
@@ -427,25 +427,26 @@ Struktur data logika pada sistem informasi parenting terdapat struktur Database 
 |Id_Admin|int|Auto-increment dari Id_Admin|
 |username|varchar|Berisi username admin untuk mengakses sistem|
 |Password|varchar|Berisi password admin untuk mengakses sistem|
-|level|varchar|untuk membedakan level saat login antara admin dan pengunjung|
 
-**Tabel Artikel**
+**Tabel Menu**
 |Data Item|Tipe Data|Deskripsi|
 |--|--|--|
-|id_Artikel|int|Auto-increment dari Id_artikel|
-|gambar|varchar|Berisi gambar didalam artikel sistem|
-|deskripsi|text|Berisi deskripsi artikel sistem|
-|judul|varchar|Berisi judul pada artikel sistem|
-|kategori|varchar|Berisi kategori pada artikel sistem|
+|id_menu|int|Auto-increment dari Id_menu|
+|gambar|varchar|Berisi gambar didalam menu sistem|
+|deskripsi|text|Berisi deskripsi menu sistem|
+|judul|varchar|Berisi judul pada menu sistem|
+|harga|decimal|Berisi harga pada menu sistem|
 
-**Tabel Kegiatan**
+**Tabel Promo**
 |Data Item|Tipe Data|Deskripsi|
 |--|--|--|
-|id_kegiatan|int|Auto-increment dari Id_kegiatan|
-|gambar|varchar|Berisi gambar didalam kegiatan sistem|
-|deskripsi|text|Berisi deskripsi kegiatan sistem|
-|judul|varchar|Berisi judul pada kegiatan sistem|
-|tanggal|varchar|Berisi tanggal pada kegiatan sistem|
+|id_promo|int|Auto-increment dari Id_promo|
+|gambar|varchar|Berisi gambar promo didalam sistem|
+|deskripsi|text|Berisi deskripsi promo yang tersedia di sistem|
+|judul|varchar|Berisi judul promo di dalam sistem|
+|tanggal_berlaku|date|Berisi tanggal berlaku nya promo di dalam sistem|
+|tanggal_berakhir|date|Berisi tanggal berakhir nya promo di dalam sistem|
+|diskon|decimal|Berisi diskon promo yang tersedia di dalam sistem|
 
 **Tabel about**
 |Data Item|Tipe Data|Deskripsi|
@@ -453,53 +454,56 @@ Struktur data logika pada sistem informasi parenting terdapat struktur Database 
 |id_about|int|Auto-increment dari id_about|
 |gambar|varchar|Berisi gambar didalam about sistem|
 |deskripsi|text|Berisi deskripsi about sistem|
+|judul|varchar|Berisi judul about di dalam sistem|
 
 **Tabel contact**
 |Data Item|Tipe Data|Deskripsi|
 |--|--|--|
 |id_contact|int|Auto-increment dari id_contact|
-|judul|varchar|Berisi judul pada contact sistem|
-|isi|text|Berisi isi contact sistem|
+|maps|varchar|Berisi peta maps pada contact us sistem|
+|kontak|varchar|Berisi isi contact sistem|
 
-**Tabel team**
+**Tabel testimoni**
 |Data Item|Tipe Data|Deskripsi|
 |--|--|--|
-|id_team|int|Auto-increment dari Id_team|
+|id_testimoni|int|Auto-increment dari Id_testimoni|
 |gambar|varchar|Berisi gambar didalam team sistem|
 |nama|text|Berisi nama team sistem|
-|jabatan|varchar|Berisi jabatan pada team sistem|
+|deskripsi|text|Berisi deskripsi testimoni sistem|
 
 
 
 ## Pembagian tugas
-BAB 1 ->Nindy
+BAB 1 ->Ruthiana
 
 BAB 2 
 2.1
   
-  2.1.1 -> Nindy
+  2.1.1 -> Ruthiana
   
-  2.1.2 -> Nindy
+  2.1.2 -> Ruthiana
   
-  2.1.3 -> Ariyan
+  2.1.3 -> Ruthiana
   
-  2.1.4 -> Ariyan
+  2.1.4 -> Ruthiana
  
-  2.1.5 -> Ariyan
+  2.1.5 -> Ruthiana
   
-  2.1.6 -> Raditya
+  2.1.6 -> Ruthiana
   
-  2.1.7 -> Raditya
+  2.1.7 -> Ruthiana
   
-  2.1.8 -> Raditya
+  2.1.8 -> Ruthiana
 
-2.2 semua poin-poin (nindy)
+2.2 semua poin-poin (Musarofah)
 
 BAB 3 
 
-3.1 nindy
+3.1 Musarofah
 
-3.2 nindy
-
-3.3 Nindy
+3.2 Musarofah
+  3.2.1 Musarofah
+  3.2.2 Musarofah
+  3.2.3 Musarofah (setelah 3.2.3 itu risky)
+3.3 Risky
 
