@@ -92,7 +92,7 @@ Use Case: Register
 
 Diagram:
 
-![alt text](Image/2.2.2.png?raw=true)
+![alt text](image/adminRegister.drawio.png?raw=true)
 
 Deskripsi Singkat: 
 Terdapat form registrasi untuk menambahkan admin baru, yang hanya dapat diakses oleh admin dengan hak akses tertentu.
