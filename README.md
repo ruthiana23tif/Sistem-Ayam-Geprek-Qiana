@@ -181,7 +181,7 @@ Xref: Bagian 3.2.6, Data Promo
 
 Use Case: Input Data Contact Us
 
-Diagram:![alt text](revisi/revisi3.jpg?raw=true)
+Diagram:![alt text](image/contactUs.png?raw=true)
 
 
 Deskripsi Singkat: 
