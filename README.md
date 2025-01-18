@@ -67,7 +67,18 @@ Sistem Informasi Parenting memiliki 2 pengunjung yaitu admin dan pengunjung. Adm
 |  |  |
 | ![alt text](image/testimoniadmin.png?raw=true) Pada halaman testimoni, selain menambahkan dan mengedit, admin juga dapat menghapus data testimoni yang mana ketika button hapus di klik akan muncul pop up untuk memastikan admin benar-benar ingin menghapus atau tidak.| ![alt text](image/aboutus.png?raw=true) Pada halaman about us, admin juga dapat mengedit data about us, begitu juga dengan pengelolaan data di kolom tersedia.
 |  |  |
+| ![alt text](image/menuadmin.png?raw=true) Pada halaman menu, selain menambahkan dan mengedit, admin juga dapat menghapus data menu sesuai dengan kebutuhan admin| ![alt text](image/contactus.png?raw=true) Pada halaman contact us, admin juga dapat mengedit data about us, begitu juga dengan pengelolaan data di kolom tersedia.
+|  |  |
 
+**Halaman User**
+|  |  |
+|--|--|
+| ![alt text](image/dashboardUser.png) Pada halaman pengunjung terdapat beranda yang berisi tampilan scrolling yang berisi seluruh konten seperti tampilan home, menu, testimoni, about us, contact us, dan promo.|![alt text](image/aboutususer.png?raw=true) Pada halaman pengunjung terdapat halaman about us yang berisi judul, gambar, informasi outlet, dan visi misi dari outlet.
+|  |  |
+| ![alt text](image/testimoniuser.png?raw=true) Pada halaman pengunjung terdapat halaman testimoni, pengunjung dapat melihat testimoni pelanggan sebelumnya yang diinputkan oleh admin, seperti informasi mengenai nama, gambar, dan testimoni pelanggan. | ![alt text](image/menuuser.png?raw=true) Pada halaman pengunjung terdapat halaman menu, pengunjung dapat melihat informasi seperti variasi menu yang tersedia, harga. Pengunjung juga bisa melakukan pencarian menu pada halaman tersebut.
+|  |  |
+| ![alt text](image/promouser.png?raw=true) Pada halaman pengunjung terdapat halaman promo, pengunjung dapat melihat informasi promo yang ada rentang waktu yang diberikan, juga memberikan informasi promo dan potongan yang berlaku. | ![alt text](image/contactususer.png?raw=true) Pada halaman pengunjung terdapat halaman contact us, pengunjung dapat melihat informasi outlet dengan bantuan maps yang harapannya memberikan kemudahan bagi pelanggan yang baru akan mencoba.
+|  |  |
 
 ## 2.2 Spesifikasi kebutuhan fungsional
 ![alt text](image/2.2_UseCase.drawio.png?raw=true)
