@@ -67,7 +67,7 @@ Sistem Informasi Parenting memiliki 2 pengunjung yaitu admin dan pengunjung. Adm
 |  |  |
 
 ## 2.2 Spesifikasi kebutuhan fungsional
-![alt text](Image/2.2.png?raw=true)
+![alt text](image/2.2.jpg?raw=true)
 **2.2.1 Admin Login**
 
 Use Case: Login
