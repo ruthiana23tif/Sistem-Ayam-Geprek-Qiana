@@ -166,7 +166,7 @@ Xref: Bagian 3.2.5, Data About us Ayam Geprek Qiana
 
 Use Case: Input Data Promo
 
-Diagram:![alt text](image/2.2.5.png?raw=true)
+Diagram:![alt text](image/2.2.6.png?raw=true)
 
 
 Deskripsi Singkat: 
