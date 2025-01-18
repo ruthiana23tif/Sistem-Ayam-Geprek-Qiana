@@ -100,10 +100,7 @@ Terdapat form registrasi untuk menambahkan admin baru, yang hanya dapat diakses 
 Deskripsi Langkah-langkah:
 1. Admin dengan hak akses tertentu (Super Admin) dapat mengakses form untuk menambahkan admin baru.
 2. Super Admin mengisi data pada form registrasi.
-3. sistem memvalidasi data.
-4. Jika valid, data admin baru disimpan ke database.
-5. Sistem akan menyimpan ke database.
-6. Jika tidak valid, muncul pesan peringatan seperti "Username sudah digunakan".
+3. Sistem akan menyimpan data ke database.
 
 Xref: Bagian 3.2.2, Register Admin
 
@@ -290,13 +287,11 @@ Salah satu cara mengakses website ini yaitu customer membuka website nya terlebi
 | Precondition        | Halaman Register                         |
 | Basic Path          | 1. 1. Admin dengan hak akses tertentu (Super Admin) dapat mengakses form untuk menambahkan admin baru.
 |        |         2. Super Admin mengisi data pada form registrasi. |
-|        | 3. sistem memvalidasi data.  |
-|        | 4. Jika valid, data admin baru disimpan ke database. |
-|        | 5. Sistem akan menyimpan ke database. |
-|        | 6. Jika tidak valid, muncul pesan peringatan seperti "Username sudah digunakan". |
+|        | 3. Jika valid, data admin baru disimpan ke database. |
+|        | 4. Sistem akan menyimpan ke database. |
 |     Alternative       |                   Tidak Ada                   |
 | Post Condition     |                  Setelah registrasi admin dapat login dan mengakses webiste sistem Ayam Geprek Qiana                   |
-|         Exception Push          |                  Username sudah digunakan                  |
+|         Exception Push          |                  Tidak ada koneksi                |
 
 
 **3.2.3 Admin Input Tampilan Dashboard**
@@ -307,8 +302,7 @@ Salah satu cara mengakses website ini yaitu customer membuka website nya terlebi
 | Precondition | Menginput data tampilan dashboard |
 | Basic Path | 1. Sistem menampilkan tampilan dashboard. |
 |            | 2. Admin dapat melihat, menambahkan, mengedit, menghapus dan mengupload image dan informasi singkat. |
-|            | 3. Sistem akan menyimpan ke database. |
-|            | 4. Jika sudah disimpan sistem akan menampilkan pemberitahuan. |
+|            | 3. Sistem akan menyimpan data ke database. |
 | Alternative | Tidak ada |     
 | Post Condition | Admin mengelola dashboard
 | Exception Push | Tidak ada koneksi |
