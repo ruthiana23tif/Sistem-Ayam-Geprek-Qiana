@@ -73,7 +73,7 @@ Sistem Informasi Parenting memiliki 2 pengunjung yaitu admin dan pengunjung. Adm
 Use Case: Login
 
 Diagram:
-![alt text](Image/adminLogin.png?raw=true)
+![alt text](image/adminLogin.png?raw=true)
 
 Deskripsi Singkat 
 Admin melakukan login terlebih dahulu sebelum masuk ke tampilan home admin, apabila gagal login akan muncul pesan alert error login. 
