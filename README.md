@@ -148,7 +148,7 @@ Xref: Bagian 3.2.4, Input Data Menu
 
 Use Case: Input Data About Us
 
-Diagram:![alt text](revisi/revisi2.jpg?raw=true)
+Diagram:![alt text](image/2.2.5.png?raw=true)
 
 
 Deskripsi Singkat: 
