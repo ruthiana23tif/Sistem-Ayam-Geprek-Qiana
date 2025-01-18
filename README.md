@@ -112,8 +112,8 @@ Deskripsi Singkat:
 Terdapat form registrasi untuk menambahkan admin baru, yang hanya dapat diakses oleh admin dengan hak akses tertentu.
 
 Deskripsi Langkah-langkah:
-1. Admin dengan hak akses tertentu (Super Admin) dapat mengakses form untuk menambahkan admin baru.
-2. Super Admin mengisi data pada form registrasi.
+1. Admin dapat mengakses form untuk menambahkan admin baru.
+2. Admin mengisi data pada form registrasi.
 3. Sistem akan menyimpan data ke database.
 
 Xref: Bagian 3.2.2, Register Admin
@@ -299,10 +299,9 @@ Salah satu cara mengakses website ini yaitu customer membuka website nya terlebi
 | Xref                | Xref: Bagian 2.2.2, Admin Register               |
 | Trigger             | Admin Membuka Website Sistem Ayam Geprek Qiana |
 | Precondition        | Halaman Register                         |
-| Basic Path          | 1. 1. Admin dengan hak akses tertentu (Super Admin) dapat mengakses form untuk menambahkan admin baru.
-|        |         2. Super Admin mengisi data pada form registrasi. |
-|        | 3. Jika valid, data admin baru disimpan ke database. |
-|        | 4. Sistem akan menyimpan ke database. |
+| Basic Path          | 1. 1. Admin dapat mengakses form untuk menambahkan admin baru.
+|        |         2. Admin mengisi data pada form registrasi. |
+|        | 3. Sistem akan menyimpan ke database. |
 |     Alternative       |                   Tidak Ada                   |
 | Post Condition     |                  Setelah registrasi admin dapat login dan mengakses webiste sistem Ayam Geprek Qiana                   |
 |         Exception Push          |                  Tidak ada koneksi                |
