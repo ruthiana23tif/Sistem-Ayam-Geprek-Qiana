@@ -417,7 +417,7 @@ Salah satu cara mengakses website ini yaitu customer membuka website nya terlebi
 | Exception Push     |    Jika ada kesalahan server atau gangguan teknis, sistem akan menampilkan pesan kesalahan kepada pengguna. Pengguna dapat mencoba kembali atau menghubungi dukungan teknis.    |
 
 ## 3.3 Struktur Detail Kebutuhan Non-Fungsional
-![alt text](image/ERD.png?raw=true)
+![alt text](image/ERD_Ayam_Geprek_Qiana.png?raw=true)
 **3.3.1 Logika Struktur Data**
 Struktur data logika pada sistem ayam geprek qiana terdapat pada struktur Database yang dijelaskan menggunakan ERD.
 
