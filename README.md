@@ -50,6 +50,22 @@ Sistem informasi ini dirancang untuk memberikan kemudahan kepada pelanggan dalam
 - Mengelola informasi lokasi dan kontak.
 - Update, edit, atau hapus data yang sudah ada.
 
+## 2.1 Perspektif produk
+Sistem Ayam Geprek Qiana adalah sebuah sistem informasi berbasis website. Terdapat 2 jenis aktor yaitu admin dan pengunjung. Pengolahan data dilakukan oleh admin pada website dan pengunjung hanya melihat informasi pada website.
+
+**2.1.1 Antarmuka Sistem**
+![alt text](image/antarmukasistem.png?raw=true)
+
+Sistem Informasi Parenting memiliki 2 pengunjung yaitu admin dan pengunjung. Admin mempunyai fungsi mengelola data informasi dan Pengunjung bisa melihat informasi serta memberikan komentar.
+
+**2.1.2 Antarmuka Pengguna**
+
+**Halaman Admin**
+|  |  |
+|--|--|
+| ![alt text](image/login.png?raw=true) Halaman login admin diminta untuk mengisi username dan password.| ![alt text](image/dashboard?raw=true) Setelah login admin akan masuk ke tampilan Dashboard admin.
+|  |  |
+
 ## 2.2 Spesifikasi kebutuhan fungsional
 ![alt text](Image/2.2.png?raw=true)
 **2.2.1 Admin Login**
