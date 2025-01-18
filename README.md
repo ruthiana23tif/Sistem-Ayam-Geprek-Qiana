@@ -113,11 +113,11 @@ Diagram:
 ![alt text](image/2.2.3.png?raw=true)
 
 Deskripsi Singkat: 
-Admin dapat menginputkan tampilan dashboard setelah berhasil login. Di Dashboard terdapat gambar dan informasi mengenai ayam geprek secara singkat.
+Admin dapat menginputkan tampilan dashboard setelah berhasil login. Dan terdapat gambar dan ucapan singkat saat memasuki dashboard.
 
 Deskripsi Langkah-langkah:
 1. Sistem menampilkan tampilan dashboard.
-2. Admin dapat melihat, menambahkan, mengedit, menghapus dan mengupload image dan informasi singkat.
+2. Admin dapat melihat, menambahkan, mengedit, menghapus dan mengupload image dan informasi atau ucapan singkat.
 3. Sistem akan menyimpan ke database.
 4. sudah disimpan sistem akan menampilkan pemberitahuan.
 
