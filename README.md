@@ -69,6 +69,8 @@ Sistem Informasi Parenting memiliki 2 pengunjung yaitu admin dan pengunjung. Adm
 |  |  |
 | ![alt text](image/menuadmin.png?raw=true) Pada halaman menu, selain menambahkan dan mengedit, admin juga dapat menghapus data menu sesuai dengan kebutuhan admin| ![alt text](image/contactus.png?raw=true) Pada halaman contact us, admin juga dapat mengedit data about us, begitu juga dengan pengelolaan data di kolom tersedia.
 |  |  |
+| ![alt text](image/registeradmin.png?raw=true) Pada halaman register, admin dapat menambahkan akun untuk mengelola sistem Ayam Geprek Qiana dimana register akan meminta menginputkan nama, email, password, dan konfirmasi password.
+|  |  |
 
 **Halaman User**
 |  |  |
@@ -79,8 +81,7 @@ Sistem Informasi Parenting memiliki 2 pengunjung yaitu admin dan pengunjung. Adm
 |  |  |
 | ![alt text](image/promouser.png?raw=true) Pada halaman pengunjung terdapat halaman promo, pengunjung dapat melihat informasi promo yang ada rentang waktu yang diberikan, juga memberikan informasi promo dan potongan yang berlaku. | ![alt text](image/contactususer.png?raw=true) Pada halaman pengunjung terdapat halaman contact us, pengunjung dapat melihat informasi outlet dengan bantuan maps yang harapannya memberikan kemudahan bagi pelanggan yang baru akan mencoba.
 |  |  |
-| ![alt text](image/slideradmin.png?raw=true) Pada halaman slider, admin dapat mengatur konten sliders dan dapat menambah, edit, dan hapus gambar yang diinginkan menjadi konten sliders. | ![alt text](image/registeradmin.png?raw=true) Pada halaman register, admin dapat menambahkan akun untuk mengelola sistem Ayam Geprek Qiana dimana register akan meminta menginputkan nama, email, password, dan konfirmasi password.
-|  |  |
+
 
 ## 2.2 Spesifikasi kebutuhan fungsional
 ![alt text](image/2.2_UseCase.drawio.png?raw=true)
