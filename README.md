@@ -128,7 +128,7 @@ Xref: Bagian 3.2.3, Input Tampilan Dashboard
 Use Case: Input Data Menu
 
 Diagram:
-![alt text](image/2.2.4.png?raw=true)
+![alt text](image/Menu.png?raw=true)
 
 Deskripsi Singkat: 
 Sistem dapat menampilkan halaman input data tentang menu dan Admin dapat menginput data tentang menu-menu yang ada pada Ayam Geprek Qiana.
