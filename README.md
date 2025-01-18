@@ -113,7 +113,7 @@ Use Case: Input Tampilan Dashboard
 
 Diagram:
 
-![alt text](Image/2.2.2.png?raw=true)
+![alt text](image/2.2.3.png?raw=true)
 
 Deskripsi Singkat: 
 Admin dapat menginputkan tampilan dashboard setelah berhasil login. Di Dashboard terdapat gambar dan informasi mengenai ayam geprek secara singkat.
