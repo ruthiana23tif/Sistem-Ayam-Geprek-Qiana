@@ -199,7 +199,7 @@ Xref: Bagian 3.2.7, Data Contact Us
 
 Use Case: Input Data Testimoni
 
-Diagram:![alt text](revisi/revisi3.jpg?raw=true)
+Diagram:![alt text](image/testimoni.png?raw=true)
 
 
 Deskripsi Singkat: 
