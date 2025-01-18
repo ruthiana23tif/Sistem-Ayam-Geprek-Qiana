@@ -75,26 +75,6 @@ Use Case: Login
 Diagram:
 ![alt text](image/adminLogin.png?raw=true)
 
-Deskripsi Singkat 
-Admin melakukan login terlebih dahulu sebelum masuk ke tampilan home admin, apabila gagal login akan muncul pesan alert error login. 
-
-Deskripsi Langkah-Langkah
-1. Admin melakukan login dengan username dan password.
-2. Sistem melakukan validasi login.
-3. Bila sukses sistem akan mengarahkan ke home admin.
-4. Bila gagal sistem akan menampilkan peringatan.
-
-Xref: Bagian 3.2.1, Login Admin
-
-## 2.2 Spesifikasi kebutuhan fungsional
-![alt text](Image/2.2.png?raw=true)
-**2.2.1 Admin Login**
-
-Use Case: Login
-
-Diagram:
-![alt text](Image/adminLogin.png?raw=true)
-
 Deskripsi Singkat:  
 Admin melakukan login terlebih dahulu sebelum masuk ke tampilan dashboard admin. Jika login gagal, akan muncul pesan alert "error login".
 
