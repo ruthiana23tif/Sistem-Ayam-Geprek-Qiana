@@ -238,14 +238,14 @@ Deskripsi Singkat:
 Customer mengunjungi website dan langsung masuk ke halaman Dashboard sebagai tampilan utama, kemudian melanjutkan ke berbagai fitur seperti Menu untuk mencari atau melihat daftar menu yang tersedia, About Us untuk mengetahui informasi tentang ayam geprek qiana, dan Contact Us untuk melihat kontak serta peta lokasi, Promo untuk melihat informasi promosi, dan Testimoni untuk melihat/membaca review dari pelanggan/customer ayam geprek qiana.
 
 Deskripsi Langkah-Langkah: 
-1. Sistem akan menampilkan halaman dashboard.
-2. Customer dapat memilih fitur yang tersedia di navbar dashboard sesuai keinginan seperti fitur Menu, About Us, Contact Us, Promo, dan Testimoni.
+1. Sistem akan menampilkan halaman homepage.
+2. Customer dapat memilih fitur yang tersedia di homepage sesuai keinginan seperti fitur Menu, About Us, Contact Us, Promo, dan Testimoni.
 3. Apabila memilih fitur Menu maka customer akan dapat melihat atau mecari daftar menu, harga, dll yang tersedia.
 4. Apabila memilih fitur About Us maka customer akan dapat melihat Informasi lebih detail mengenai ayam geprek qiana.
 5. Apabila memilih fitur Contact Us maka customer akan dapat melihat lokasi ayam geprek qiana dengan maps dan kontak dari ayam gerek qiana yang bisa dihubungi.
 6. Apabila memilih fitur Promo maka customer akan dapat melihat promo yang tersedia.
 7. Apabila memilih fitur Testimoni maka customer akan dapat melihat atau membaca review dari customer atau pelanggan setia ayam geprek qiana.
-8. Customer dapat mengklik navbar dashboard kembali jika ingin keluar pada halaman konten yang telah dilihat.
+8. Customer dapat mengklik hpomepage kembali jika ingin keluar pada halaman konten yang telah dilihat.
 
 Xref: Bagian 3.2.9, Customer
 
@@ -401,16 +401,16 @@ Salah satu cara mengakses website ini yaitu customer membuka website nya terlebi
 | Nama Fungsi        |    Customer  Mengunjungi website             |
 | ------------------- | ---------------------------------- |
 | Xref               | Bagian 2.2.9 Customer Mengunjungi website             |
-| Trigger            |Customer mengunjungi website dan langsung masuk ke halaman Dashboard sebagai tampilan utama, kemudian melanjutkan ke berbagai fitur seperti Menu untuk mencari atau melihat daftar menu yang tersedia, About Us untuk mengetahui informasi tentang ayam geprek qiana, dan Contact Us untuk melihat kontak serta peta lokasi, Promo untuk melihat informasi promosi, dan Testimoni untuk melihat/membaca review dari pelanggan/customer ayam geprek qiana |
+| Trigger            |Customer mengunjungi website dan langsung masuk ke halaman homepage sebagai tampilan utama, kemudian melanjutkan ke berbagai fitur seperti Menu untuk mencari atau melihat daftar menu yang tersedia, About Us untuk mengetahui informasi tentang ayam geprek qiana, dan Contact Us untuk melihat kontak serta peta lokasi, Promo untuk melihat informasi promosi, dan Testimoni untuk melihat/membaca review dari pelanggan/customer ayam geprek qiana |
 | Precondition       |Customer Mengunjungi website |
-| Basic Path         | 1. Sistem akan menampilkan halaman dashboard. |
-|                    | 2. Customer dapat memilih fitur yang tersedia di navbar dashboard sesuai keinginan seperti fitur Menu, About Us, Contact Us, Promo, dan Testimoni.    |
+| Basic Path         | 1. Sistem akan menampilkan halaman homepage. |
+|                    | 2. Customer dapat memilih fitur yang tersedia di homepage sesuai keinginan seperti fitur Menu, About Us, Contact Us, Promo, dan Testimoni.    |
 |                    | 3. Apabila memilih fitur Menu maka customer akan dapat melihat atau mecari daftar menu, harga, dll yang tersedia.    |
 |                    | 4. Apabila memilih fitur About Us maka customer akan dapat melihat Informasi lebih detail mengenai ayam geprek qiana.    |
 |                    | 5. Apabila memilih fitur Contact Us maka customer akan dapat melihat lokasi ayam geprek qiana dengan maps dan kontak dari ayam gerek qiana yang bisa dihubungi.    |
 |                    | 6. Apabila memilih fitur Promo maka customer akan dapat melihat promo yang tersedia.    |
 |                    | 7. Apabila memilih fitur Testimoni maka customer akan dapat melihat atau membaca review dari customer atau pelanggan setia ayam geprek qiana.    |
-|                    | 8. Customer dapat mengklik navbar dashboard kembali jika ingin keluar pada halaman konten yang telah dilihat.    |
+|                    | 8. Customer dapat mengklik homepage kembali jika ingin keluar pada halaman konten yang telah dilihat.    |
 | Alternative        |   Halaman Konten    |
 | Post Condition     |   customer mengunjungi website dan melihat informasi yang ada pada website     |
 | Exception Push     |    Jika ada kesalahan server atau gangguan teknis, sistem akan menampilkan pesan kesalahan kepada pengguna. Pengguna dapat mencoba kembali atau menghubungi dukungan teknis.    |
