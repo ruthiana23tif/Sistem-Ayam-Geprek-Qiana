@@ -497,9 +497,7 @@ BAB 2
 2.2 semua poin-poin (Musarofah)
 
 BAB 3 
-
 3.1 Musarofah
-
 3.2 Musarofah
   3.2.1 Musarofah
   3.2.2 Musarofah
