@@ -462,7 +462,6 @@ Struktur data logika pada sistem ayam geprek qiana terdapat pada struktur Databa
 |Data Item|Tipe Data|Deskripsi|
 |--|--|--|
 |id_contact|int|Auto-increment dari id_contact|
-|maps|varchar|Berisi peta maps pada contact us sistem|
 |kontak|varchar|Berisi isi contact sistem|
 
 **Tabel testimoni**
