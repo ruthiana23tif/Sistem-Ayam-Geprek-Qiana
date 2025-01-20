@@ -112,7 +112,7 @@ Diagram:
 ![alt text](image/adminRegister.drawio.png?raw=true)
 
 Deskripsi Singkat: 
-Terdapat form registrasi untuk menambahkan admin baru, yang hanya dapat diakses oleh admin dengan hak akses tertentu.
+Terdapat form registrasi untuk menambahkan admin baru, yang hanya dapat diakses oleh admin.
 
 Deskripsi Langkah-langkah:
 1. Admin dapat mengakses form untuk menambahkan admin baru.
