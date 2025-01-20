@@ -202,7 +202,7 @@ Diagram:![alt text](image/contactUs.png?raw=true)
 
 
 Deskripsi Singkat: 
-Sistem dapat menampilkan halaman Input data contact us seperti maps dan contact yang dapat dihubungi dan Admin mengInput data contact us.
+Sistem dapat menampilkan data contact us seperti maps dan contact yang dapat dihubungi di halaman user.
 
 Deskripsi Langkah-langkah:
 1. Sistem akan menampilkan tampilan data contact us.
