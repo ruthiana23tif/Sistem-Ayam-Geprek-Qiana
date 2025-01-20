@@ -245,10 +245,10 @@ Deskripsi Langkah-Langkah:
 2. Customer dapat memilih fitur yang tersedia di homepage sesuai keinginan seperti fitur Menu, About Us, Contact Us, Promo, dan Testimoni.
 3. Apabila memilih fitur Menu maka customer akan dapat melihat atau mecari daftar menu, harga, dll yang tersedia.
 4. Apabila memilih fitur About Us maka customer akan dapat melihat Informasi lebih detail mengenai ayam geprek qiana.
-5. Apabila memilih fitur Contact Us maka customer akan dapat melihat lokasi ayam geprek qiana dengan maps dan kontak dari ayam gerek qiana yang bisa dihubungi.
+5. Apabila memilih fitur Contact Us maka customer akan dapat melihat lokasi ayam geprek qiana dengan maps dan kontak dari ayam gerek qiana yang bisa dihubungi.  Pada tampilan contact us, pengunjung dapat memberikan pertanyaan tanpa perlunya login ke sistem.
 6. Apabila memilih fitur Promo maka customer akan dapat melihat promo yang tersedia.
 7. Apabila memilih fitur Testimoni maka customer akan dapat melihat atau membaca review dari customer atau pelanggan setia ayam geprek qiana.
-8. Customer dapat mengklik hpomepage kembali jika ingin keluar pada halaman konten yang telah dilihat.
+8. Customer dapat mengklik homepage kembali jika ingin keluar pada halaman konten yang telah dilihat.
 
 Xref: Bagian 3.2.9, Customer
 
@@ -410,7 +410,7 @@ Salah satu cara mengakses website ini yaitu customer membuka website nya terlebi
 |                    | 2. Customer dapat memilih fitur yang tersedia di homepage sesuai keinginan seperti fitur Menu, About Us, Contact Us, Promo, dan Testimoni.    |
 |                    | 3. Apabila memilih fitur Menu maka customer akan dapat melihat atau mecari daftar menu, harga, dll yang tersedia.    |
 |                    | 4. Apabila memilih fitur About Us maka customer akan dapat melihat Informasi lebih detail mengenai ayam geprek qiana.    |
-|                    | 5. Apabila memilih fitur Contact Us maka customer akan dapat melihat lokasi ayam geprek qiana dengan maps dan kontak dari ayam gerek qiana yang bisa dihubungi.    |
+|                    | 5. Apabila memilih fitur Contact Us maka customer akan dapat melihat lokasi ayam geprek qiana dengan maps dan kontak dari ayam gerek qiana yang bisa dihubungi. Pada tampilan contact us, pengunjung dapat memberikan pertanyaan tanpa perlunya login ke sistem.    |
 |                    | 6. Apabila memilih fitur Promo maka customer akan dapat melihat promo yang tersedia.    |
 |                    | 7. Apabila memilih fitur Testimoni maka customer akan dapat melihat atau membaca review dari customer atau pelanggan setia ayam geprek qiana.    |
 |                    | 8. Customer dapat mengklik homepage kembali jika ingin keluar pada halaman konten yang telah dilihat.    |
