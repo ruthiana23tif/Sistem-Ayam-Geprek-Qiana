@@ -194,9 +194,9 @@ Deskripsi Langkah-langkah:
 
 Xref: Bagian 3.2.6, Data Promo
 
-**2.2.7 Admin Input Data Contact Us**
+**2.2.7 Contact Us**
 
-Use Case: Input Data Contact Us
+Use Case: Data Contact Us
 
 Diagram:![alt text](image/contactUs.png?raw=true)
 
@@ -206,9 +206,8 @@ Sistem dapat menampilkan halaman Input data contact us seperti maps dan contact 
 
 Deskripsi Langkah-langkah:
 1. Sistem akan menampilkan tampilan data contact us.
-2. Admin dapat melihat, menambahkan, mengedit, menghapus dan mengupload maps, dan kontak yang dapat dihubungi dari ayam geprek qiana.
-3. Sistem akan menyimpan ke database.
-4. sudah disimpan sistem akan menampilkan pemberitahuan.
+2. Admin dapat melihat maps dan kontak yang dapat dihubungi dari ayam geprek qiana.
+
 
 Xref: Bagian 3.2.7, Data Contact Us
 
@@ -369,17 +368,15 @@ Salah satu cara mengakses website ini yaitu customer membuka website nya terlebi
 | Post Condition     |  Admin Dapat menginputkan data promo seperti nama promo, deskripsi promo, diskon, tanggal berlaku dan berakhirnya promo.        |
 | Exception Push     | Tidak Ada        |
 
-**3.2.7 Input Data Contact Us**
+**3.2.7  Data Contact Us**
 
-| Nama Fungsi        | Input Informasi contact person dan lokasi                              |
+| Nama Fungsi        |  Informasi contact person dan lokasi                              |
 | ------------------- | ---------------------------------- |
 | Xref               | Bagian 2.2.7, Admin Input Data Contact Us                     |
-| Trigger            | admin dapat menginputkan data contact us|
-| Precondition       | Admin menginputkan data contact us ke website |
+| Trigger            | admin dapat melihat data contact us|
+| Precondition       | Admin melihat data contact us ke halaman user |
 | Basic Path         | 1. Sistem akan menampilkan tampilan data contact us. |
 |                    | 2. Admin dapat melihat, menambahkan, mengedit, menghapus dan mengupload maps, dan kontak yang dapat dihubungi dari ayam geprek qiana.   |
-|                    | 3. Sistem akan menyimpan ke database.   |
-|                    | 4. Jika sudah disimpan sistem akan menampilkan pemberitahuan.   |
 | Alternative        |  Tidak Ada                                 |
 | Post Condition     |  Admin Dapat menginputkan data contact us seputar website seperti lokasi(maps), dan contact person.        |
 | Exception Push     | Tidak Ada        |
