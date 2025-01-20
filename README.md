@@ -69,7 +69,7 @@ Sistem Informasi Parenting memiliki 2 pengunjung yaitu admin dan pengunjung. Adm
 |  |  |
 | ![alt text](image/menuadmin.png?raw=true) Pada halaman menu, selain menambahkan dan mengedit, admin juga dapat menghapus data menu sesuai dengan kebutuhan admin| ![alt text](image/contactus.png?raw=true) Pada halaman contact us, admin juga dapat mengedit data about us, begitu juga dengan pengelolaan data di kolom tersedia.
 |  |  |
-| ![alt text](image/registeradmin.png?raw=true) Pada halaman register, admin dapat menambahkan akun untuk mengelola sistem Ayam Geprek Qiana dimana register akan meminta menginputkan nama, email, password, dan konfirmasi password.
+| ![alt text](image/registeradmin.png?raw=true) Pada halaman register, admin dapat menambahkan akun untuk mengelola sistem Ayam Geprek Qiana dimana register akan meminta menginputkan nama, email, password, dan konfirmasi password. | ![alt text](image/promoadmin.png?raw=true) Pada halaman promo, admin dapat menambahkan promo, admin dapat menambahkan promo yang tersedia. Terdapat rentang waktu yang dapat diinputkan oleh admin, agar pada tampilan user dapat menegtahui jangka waktu promo yang sedang berlangsung, admin juga dapat menambahkan, mengedit, dan menghapus promo.
 |  |  |
 
 **Halaman User**
